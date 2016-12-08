@@ -22,7 +22,15 @@ public class Baku {
         System.out.println("salam dunya");    
         System.out.println("salam dunya");    
         System.out.println("salam dunya");    
-        System.out.println("salam dunya");    
+        System.out.println("salam dunya");
+        
+        
+                System.out.println("salam dunya"); 
+                System.out.println("salam dunya"); 
+                System.out.println("salam dunya"); 
+                System.out.println("salam dunya"); 
+                System.out.println("salam dunya"); 
+                System.out.println("salam dunya"); 
     }
     
 }
