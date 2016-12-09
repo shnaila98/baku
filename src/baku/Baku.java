@@ -15,7 +15,14 @@ public class Baku {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
+        System.out.println("salam dunya");    
     }
     
 }
